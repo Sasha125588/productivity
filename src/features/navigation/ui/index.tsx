@@ -5,7 +5,7 @@ import Facebook from '@/features/navigation/ui/facebook.png'
 import Logo from '@/features/navigation/ui/logo.png'
 import Telegram from '@/features/navigation/ui/telegram.png'
 import Twitter from '@/features/navigation/ui/twitter.png'
-import M from '@/features/navigation/ui/m.png'
+import M from '@/features/navigation/ui/M.png'
 import { Button } from '@/shared/ui/components/Button'
 
 
